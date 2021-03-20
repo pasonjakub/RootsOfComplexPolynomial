@@ -1,7 +1,7 @@
 # Roots of a complex polynomial
 
 
-Project was prepared for Computational Techniques at 3rd semester. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project was prepared for Computational Techniques at 3rd semester. 
 The main idea was to find roots of a polynomial which had randomly chosen complex coefficients. Our approach to this problem was to plot the complex polynomial on two seperate 3 dimensional graphs (real and imaginary part). After plotting our polynomial we defined z=0 plane for both graphs and we extracted the crossing points from these planes. Then we looked for intersection points at real and imaginary part which were plotted at z=0. At the end we compared our results with built-in *roots* function to check wheater our points found graphically are correct.
 
 
