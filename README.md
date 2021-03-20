@@ -5,7 +5,7 @@ Project was prepared for Computational Techniques at 3rd semester. The main idea
 ## Kontrybutorzy :poland: :onion:
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/pasonjakub"><img src="https://avatars3.githubusercontent.com/u/48298481?s=400&u=f61ccb0f734a51dc2a1115e6478839be62cb2216&v=4" width="100px;" alt=""/><br /><sub><b>Jakub Pasoń</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/pasonjakub"><img src="https://avatars.githubusercontent.com/u/45394303?s=460&u=7d8417314ae8a7da4f41697917a3e204bb39dd05&v=4" width="100px;" alt=""/><br /><sub><b>Jakub Pasoń</b></sub></a><br /></td>
     <td align="cefix fixanter"><a href="https://github.com/HubixD"><img src="https://avatars.githubusercontent.com/u/45371697?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Hubert Hanusiak</b></sub></a><br />
     </td>
   </tr>
