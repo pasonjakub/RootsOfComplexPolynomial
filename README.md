@@ -1,4 +1,4 @@
-# RootsOfPolynomialWithComplexCoefficients-Matlab
+# Roots of a complex polynomial
 
 
 Project was prepared for Computational Techniques at 3rd semester. 
